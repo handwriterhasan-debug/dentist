@@ -1,0 +1,6 @@
+{
+  "name": "Dentist & Clinic Portal",
+  "description": "An elegant, Apple-inspired dentist ismile clinic website with clinic showcases, treatments, scheduling, and an AI Siri Dental Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
